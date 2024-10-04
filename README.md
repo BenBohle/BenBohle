@@ -10,4 +10,4 @@ AND
 > BASED IN GERMANY 🇩🇪
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BenBohle&column=3)](https://github.com/ryo-ma/github-profile-trophy)
