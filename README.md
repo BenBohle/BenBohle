@@ -1,10 +1,12 @@
 ### Ben Bohle 
-> WEB DEVELOPER
+> Full Stack Development
 >
 >  https://benbohle.website
+>
+> in love with perfomance applications in c or web languages.
 
 AND
 
-> STUDENT OF THE 42 HEILBRONN
+> Mastery STUDENT OF THE 42 HEILBRONN
 > 
 > BASED IN GERMANY 🇩🇪
